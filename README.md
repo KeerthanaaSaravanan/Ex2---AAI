@@ -1,11 +1,4 @@
-
-
-<h1 align =center> IMPLEMENTATION OF EXACT INFERENCE METHOD OF BAYESIAN NETWORK </h1>
-**Name:** Keerthana Saravanan
-**Register Number:** 212223240070
-<H3> EXPERIMENT NO: 02 </H3>
-<H3> DATE: </H3>
-
+# EX 2 IMPLEMENTATION OF EXACT INFERENCE METHOD OF BAYESIAN NETWORK
 ## AIM:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
 
